@@ -1,5 +1,5 @@
 {
- "key": "bbf7e30d",
+ "key": "db01a1b7",
  "stars": 1,
  "contributions": 150,
  "repos": 3,
@@ -109,9 +109,13 @@
    {
     "c": 0,
     "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
     "today": true
    },
-   null,
    null
   ]
  ],
